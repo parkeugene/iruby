@@ -1,4 +1,4 @@
-require 'rbczmq'
+require 'ffi-rzmq'
 require 'mimemagic'
 require 'multi_json'
 require 'securerandom'
